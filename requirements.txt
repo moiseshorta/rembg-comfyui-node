@@ -1,1 +1,1 @@
-rembg
+rembg[gpu]
